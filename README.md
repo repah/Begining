@@ -1,3 +1,3 @@
 # Begining
 Początki<p>
-Założenie jest jedno nie poddamy się za szybko
+  <b>Założenie jest jedno nie poddamy się za szybko</b>
