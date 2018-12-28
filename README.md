@@ -1,3 +1,3 @@
 # Begining
-Początki
+Początki<p>
 Założenie jest jedno nie poddamy się za szybko
