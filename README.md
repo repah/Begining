@@ -1,4 +1,4 @@
 **ważne**
 *italic*
-#duży tytuł
-#######mały tytuł
+#duży tytuł 1
+#######mały tytuł 7
